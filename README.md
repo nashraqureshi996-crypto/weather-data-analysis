@@ -8,4 +8,4 @@ An exploratory data analysis (EDA) notebook and interactive Streamlit dashboard 
 3. **Right-Skewed Wind & Rainfall:** Most days experience calm winds and minimal rainfall, with occasional storm outliers.
 
 ## Live App
-[View Live Streamlit Dashboard](YOUR_STREAMLIT_APP_LINK)
+[View Live Streamlit Dashboard](https://weather-data-analysis-jeqd5yuniizrm8dzwwd4eu.streamlit.app/)
